@@ -1,4 +1,4 @@
-I deployed one of the my hobby project, a snake game, for this project
+I deployed one of the my hobby project, a snake game, to AWS S3 Bucket for this project
 Repo: https://github.com/Charizard17/snake
 
 Here are the links to the website:
