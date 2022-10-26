@@ -15,7 +15,7 @@ spec:
         app: my-app
     spec:
       containers:
-        - name: kubernetes_on_aws
-          image: charizard117/kubernetes_on_aws
+        - name: kubernetes-on-aws
+          image: charizard117/kubernetes-on-aws
           ports:
             - containerPort: 80

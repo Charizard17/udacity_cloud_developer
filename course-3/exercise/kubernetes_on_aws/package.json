@@ -1,5 +1,5 @@
 {
-  "name": "kubernetes_on_aws",
+  "name": "kubernetes-on-aws",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
