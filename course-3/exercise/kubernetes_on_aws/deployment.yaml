@@ -15,7 +15,7 @@ spec:
         app: my-app
     spec:
       containers:
-        - name: simple_node
-          image: charizard117/simple_node
+        - name: kubernetes_on_aws
+          image: charizard117/kubernetes_on_aws
           ports:
             - containerPort: 80
