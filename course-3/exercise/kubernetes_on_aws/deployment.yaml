@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: kubernetes-on-aws
-          image: charizard117/kubernetes-on-aws
+          image: charizard117/simple_node
           ports:
             - containerPort: 80
