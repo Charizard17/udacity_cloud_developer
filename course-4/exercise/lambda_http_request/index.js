@@ -21,15 +21,15 @@ exports.handler = async (event) => {
   // await cloudwatch.putMetricData({
   //   MetricData: [
   //     {
-  //       MetricName: 'MetricName', // Use different metric names for different values, e.g. 'Latency' and 'Successful'
+  //       MetricName: 'Latency',
   //       Dimensions: [
   //         {
   //           Name: 'ServiceName',
   //           Value: serviceName
   //         }
   //       ],
-  //       Unit: '', // 'Count' or 'Milliseconds'
-  //       Value: 0 // Total value
+  //       Unit: 'Milliseconds',
+  //       Value: 0
   //     }
   //   ],
   //   Namespace: 'Udacity/Serveless'
