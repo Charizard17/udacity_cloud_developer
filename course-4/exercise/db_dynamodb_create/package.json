@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb-create-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.432.0"
+  },
+  "scripts": {
+    "package": "zip -r dynamodb-create.zip .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
